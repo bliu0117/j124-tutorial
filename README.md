@@ -8,3 +8,6 @@ This is a **sample markdown file** that I can type a description that will show 
 > slay
 > skay
 > <ins> this will have a ~~strikethrough~~ 
+
+Immigration chart
+![data wrapper chart](data-wrapper.png)
